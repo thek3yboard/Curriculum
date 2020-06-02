@@ -1,4 +1,4 @@
-# Latest News React App
+# Curriculum Vitae
 
 ## Screenshots
 
